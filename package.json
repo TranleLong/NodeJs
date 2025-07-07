@@ -1,0 +1,27 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "FullStack-backend",
+  "keywords": [
+    "nodejs"
+  ],
+  "homepage": "https://github.com/TranleLong/NodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/TranleLong/NodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranleLong/NodeJs.git"
+  },
+  "license": "ISC",
+  "author": "TranLeLong",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js" 
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
